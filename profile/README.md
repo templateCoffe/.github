@@ -23,7 +23,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <div align="center">
   <!--
-  <a href="https://github.com/Mega-Barto/cafeteria-project">
+  <a href="https://github.com/templateCoffe">
     <img src="images/logo.png" alt="Logo" width="208" height="112">
   </a> 
   Add images folder-->
